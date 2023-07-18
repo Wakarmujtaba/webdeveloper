@@ -1,0 +1,1023 @@
+html {
+    overflow-x: hidden;
+}
+
+.navimg {
+    margin-left: 82px;
+}
+
+.navbar {
+    background-color: #1e1345;
+    color: white;
+    /* position: fixed; */
+}
+
+.navv a {
+    color: white;
+    margin: 10px 20px;
+}
+
+.navv a:hover {
+    color: #00c0ff;
+}
+
+#bd {
+    border-left: 1px solid white;
+    margin-left: 20px;
+
+}
+
+.menu {
+    margin-left: 170px;
+}
+
+.menu a {
+    margin-right: 30px;
+}
+
+.menu-icon {}
+
+.menu-icon a i {
+    padding-left: 25px;
+}
+
+.mainn {
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px
+}
+
+.mainn h1 {
+    font-size: 60px;
+}
+
+.mainn2 {
+    margin-top: 20px;
+    padding-left: 50px;
+}
+
+.connect {}
+
+.iconcol {
+    color: #00c0ff;
+    font-size: 60px;
+    margin: 20px 40px 40px 5px;
+}
+
+.mainhh {
+    background-color: #3a2b71;
+    color: white;
+    border: 1px solid #3a2b71;
+    border-radius: 10px;
+}
+
+.mainhh h5 {
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+.mainhh span {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.about {
+    margin-top: 60px;
+}
+
+.about h3 {
+    color: #00c0ff;
+    text-align: center;
+}
+
+.about h1 {
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+
+.myy {}
+
+.myy h1,
+h4 {
+    color: white;
+}
+
+.myy p {
+    color: wheat;
+}
+
+.myybd {
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    width: 500px;
+}
+
+.myybdr {
+    border-right: 1px solid whitesmoke;
+    padding: 30px;
+}
+
+.myybdl {
+    padding: 30px;
+}
+
+.myyimg {
+    padding-left: 110px;
+}
+
+.mtt {
+    margin-top: 40px;
+}
+
+.mainhhabtme {
+    background-color: #3a2b71;
+    color: white;
+    border: 1px solid #3a2b71;
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 100px;
+}
+
+.mnsz {}
+
+.mnsz h1 {
+    font-size: 50px;
+    padding-top: 50px;
+    color: #00c0ff;
+    padding-left: 20px;
+}
+
+.mnsz p {
+    padding-right: 22px;
+    padding-top: 55px;
+    padding-bottom: 50px;
+    margin-left: 10px;
+}
+
+.sk {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    margin-top: 50px;
+}
+
+.progbar {
+    background-color: #00c0ff;
+
+}
+
+.col-lg-6.mainn2 img {
+    width: 73%;
+}
+
+.progbrm {
+    height: 10px;
+    margin-left: 270px;
+    color: #00c0ff;
+
+}
+
+.ytvideo {
+    border: 2px solid black;
+    padding: 5px;
+
+}
+
+.col-md-6.myyimg img {
+    width: 71%;
+}
+
+.message {
+    width: 600px;
+    height: 250px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.ff {
+    float: left;
+}
+
+.fff {
+    float: left;
+
+    padding-top: 30px;
+}
+
+.iconcoll {
+    color: #00c0ff;
+    font-size: 60px;
+    margin: 20px 55px 40px 55px;
+}
+
+.projj h2 {
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 50px;
+    background-color: indigo;
+}
+
+.projj {
+    background-color: lightseagreen;
+    ;
+}
+
+.projj ul {}
+
+.projj li {
+    margin: 10px 20px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.projj a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px 5px;
+    border: 1px solid white;
+    width: 130px;
+    display: flex;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+input[type=text],
+input[type=email],
+input[type=number] {
+    width: 270px;
+    height: 50px;
+    padding: 8px 16px;
+    margin: 8px 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: white;
+}
+
+.message {
+    width: 565px;
+    height: 200px;
+    border: 1px solid solid;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-left: 15px;
+    color: white;
+    margin-top: 20px;
+}
+
+.formm {
+    background: none;
+}
+
+.formmm {
+    margin-left: 130px;
+}
+
+.btn {
+    margin-left: 15px;
+    border-radius: 30px;
+    width: 180px;
+    height: 60px;
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.font-marg {
+    margin-left: 60px;
+}
+
+.subscribe-area {
+    background-image: linear-gradient(to top, #432d92 0%, #432d92 100%);
+
+}
+
+.mrgt {
+    margin-top: 80px;
+
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+    padding-top: 70px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+
+}
+
+.subscribe-text span {
+    font-size: 18px;
+    font-weight: 700;
+    color: #00c0ff;
+    letter-spacing: 5px;
+}
+
+.subscribe-text h2 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-top: 6px;
+}
+
+.subscribe-wrapper {
+    overflow: hidden;
+}
+
+.subscribe-text P {
+    color: white;
+    font-size: 15px;
+
+
+}
+
+
+.subscribe-form {}
+
+.subscribe2-wrapper .subscribe-form input {
+    background: white;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    color: black;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 300;
+    height: 57px;
+    margin-right: 17px;
+    padding-left: 35px;
+    width: 70%;
+    cursor: pointer;
+}
+
+.subscribe2-wrapper .subscribe-form button {
+    background: #00c0ff;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    padding: 18px 46px;
+    transition: all 0.3s ease 0s;
+}
+
+.subscribe2-wrapper .subscribe-form button i {
+    font-size: 15px;
+    padding-left: 5px;
+    color: WHI;
+}
+
+.carosol-mrg {
+    border: 1px solid red;
+    margin: 10px;
+}
+
+.cont {}
+
+.formainhh {}
+
+.formob {}
+
+a.navbar-brand.navimg img {
+    width: 43%;
+}
+.cont_top {
+    text-align: center;
+    margin-bottom: 58px;
+}
+.cont_top h1 {
+    color: #fff;
+}
+.cont_top p {
+    color: #00c0ff;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 6px;
+}
+.contqct_left ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.locc i {
+    font-size: 24px;
+    margin: auto;
+}
+
+.locc {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ffffff7a;
+    border-radius: 50%;
+    margin-right: 29px;
+}
+.addd {
+    flex: 1;
+}
+.addd p {
+    color: #ffffffc2;
+    margin: 0;
+    letter-spacing: .2px;
+}
+.addd h2 {
+    color: #fff;
+    font-size: 26px;
+}
+.contact_left form {
+    margin: auto;
+    width: 79%;
+}
+
+.contact_left {
+}
+.contact_left input[type="submit"] {
+    border-radius: 32px;
+    height: auto;
+    padding: 8px 19px;
+    font-size: 18px;
+    /* width: auto; */
+    border: none;
+    margin-top: 10px;
+}
+.contact_left textarea {
+    padding: 10px 12px;
+    height: auto;
+    width: 100%;
+    border: 1px solid #ffffff94;
+    border-radius: 4px;
+    margin: auto;
+    margin-bottom: 5px;
+}
+.contact_left input {
+    padding: 16px 12px;
+    height: auto;
+    width: 100%;
+    border: 1px solid #ffffff94;
+    border-radius: 4px;
+    margin: auto;
+    margin-bottom: 13px;
+}
+section.contacttt {
+    padding: 50px 0;
+}
+.dddd p {
+    color: #ffffffd9;
+}
+.dddd a {
+    color: #ffffffd9 !important;
+    text-decoration: none;
+}
+.dddd h6 {
+    color: #00c0fc;
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .formm {
+        text-align: center;
+        margin: 0;
+    }
+    .dddd{
+        width: 50%;
+    }
+    .row.mt-3 .dddd:last-child {
+        width: 100%;
+    }
+    .formmm {
+        text-align: center;
+        margin: 0;
+    }
+    .col-12.jkjk h5 {
+        font-size: 14px;
+        margin: 0 !important;
+        padding: 10px 0;
+    }
+    /* .message{width: 180px; margin-left: 10px; margin-right: 20px;} */
+    .col-md-6.myyimg {
+        width: auto;
+    }
+    .message {
+        width: 270px;
+        height: 90px;
+        border: 1px solid solid;
+        border-radius: 10px;
+        box-sizing: border-box;
+        margin-left: 10px;
+        color: white;
+        margin-top: 20px;
+    }
+
+    .font-marg {
+        margin: 5px 0 5px 10px;
+        font-size: 10px;
+    }
+
+    .sk {
+        margin-top: 20px;
+    }
+
+    .iconcol {
+        font-size: 30px;
+        margin: 10px 60px 10px 60px;
+    }
+
+    .mainn {
+        padding: 20px 30px 10px 30px;
+        font-size: 25px;
+        margin-left: 50px;
+    }
+
+    .mainn2 {
+        padding-left: 100px;
+        margin-top: 0;
+    }
+
+    .formainhh {
+        margin-top: 50px;
+    }
+
+    .connect {
+        display: none;
+    }
+
+    .myyimg {
+        text-align: center;
+        margin-top: 0;
+        width: 20px;
+    }
+
+    .about {}
+
+    .about h1 {
+        font-size: 25px;
+    }
+
+    .mainhh {}
+
+    .mainhh h5 {
+        font-size: 13px;
+        padding: 10px;
+        margin-bottom: 0;
+        font-weight: 600;
+    }
+
+    .mainhh span {
+        font-size: 10px;
+        padding: 10px;
+        margin-top: 0;
+        text-align: justify;
+    }
+
+    .iconcol {
+        color: #00c0ff;
+        font-size: 25px;
+        margin: 0 50px 0 30px;
+    }
+
+    .myybdr {
+        padding: 0px;
+        margin: 5px 10px 5px 10px;
+        font-size: 10px;
+        text-align: center;
+        width: 150px;
+    }
+
+    .myybdl {
+        padding: 0px;
+        margin: 5px 10px 5px 50px;
+        font-size: 10px;
+        text-align: center;
+        width: 80px;
+    }
+
+    .myybd {
+        margin: 5px 10px 5px 15px;
+    }
+
+    .progbrm {
+        padding: 0;
+        font-size: 10px;
+        margin: 20px;
+    }
+
+    .cont {
+        margin-left: 20px;
+    }
+
+    .ytvideo {
+        width: 130;
+        height: 80;
+    }
+
+    .myy {}
+
+    .myy h1 {
+        text-align: center;
+    }
+
+    .myy p {
+        text-align: center;
+
+    }
+
+    .mainhhabtme h1 {
+        font-size: 20px;
+        margin: 0;
+        padding: 5px;
+    }
+
+    .mainhhabtme p {
+        font-size: 7px;
+        margin: 0;
+        padding: 5px 0 5px 5px;
+    }
+
+    .progbrm {
+        margin-left: 330px;
+    }
+
+    .formob {
+        margin-top: 0;
+    }
+
+    .ytvideo {
+        padding-left: 100px;
+        margin-top: 5px;
+    }
+
+    .projj li {
+        color: white;
+        font-weight: 400;
+        text-decoration: none;
+        font-size: 15px;
+        margin: 5px;
+
+    }
+
+    .projj a {
+        color: white;
+        text-decoration: none;
+        font-size: 10px;
+        padding: 3px;
+        border: 1px solid white;
+        width: 100px;
+        margin: 5px;
+        border-radius: 5px;
+        font-weight: 200;
+    }
+
+}
+
+@media (max-width:450px) {
+    .formm {
+        text-align: center;
+        margin: 0;
+    }
+
+    .formmm {
+        text-align: center;
+        margin: 0;
+    }
+
+    /* .message{width: 180px; margin-left: 10px; margin-right: 20px;} */
+
+    .message {
+        width: 270px;
+        height: 90px;
+        border: 1px solid solid;
+        border-radius: 10px;
+        box-sizing: border-box;
+        margin-left: 10px;
+        color: white;
+        margin-top: 20px;
+    }
+
+    .font-marg {
+        margin: 5px 0 5px 10px;
+        font-size: 10px;
+    }
+
+    .sk {
+        margin-top: 20px;
+    }
+
+    .iconcol {
+        font-size: 30px;
+        margin: 10px 60px 10px 60px;
+    }
+
+    .mainn {
+        padding: 20px 30px 10px 30px;
+        font-size: 25px;
+        margin-left: 50px;
+    }
+
+    .mainn2 {
+        padding-left: 50px;
+        margin-top: 0;
+    }
+
+    .formainhh {
+        margin-top: 50px;
+    }
+
+    .connect {
+        display: none;
+    }
+
+    .myyimg {
+        margin: 0;
+        padding-left: 20px;
+    }
+
+    .about {}
+
+    .about h1 {
+        font-size: 25px;
+    }
+
+    .mainhh {}
+
+    .mainhh h5 {
+        font-size: 8px;
+        padding: 10px;
+        margin-bottom: 0;
+        font-weight: 600;
+    }
+
+    .mainhh span {
+        font-size: 10px;
+        padding: 10px;
+        margin-top: 0;
+        text-align: justify;
+    }
+
+    .iconcol {
+        color: #00c0ff;
+        font-size: 15px;
+        margin: 0 50px 0 30px;
+    }
+
+    .myybdr {
+        padding: 0px;
+        margin: 0;
+        width: 140px;
+    }
+
+    .myybdl {
+        padding: 0px;
+        margin: 0;
+        width: 10px;
+    }
+
+    .myybd {
+        margin: 0;
+    }
+
+    .progbrm {
+        padding: 0;
+        font-size: 10px;
+        margin: 20px;
+    }
+
+    .cont {
+        margin-left: 20px;
+    }
+
+    .ytvideo {
+        width: 130;
+        height: 80;
+    }
+
+    .myy {}
+
+    .myy h1 {
+        text-align: center;
+    }
+
+    .myy p {
+        text-align: center;
+
+    }
+
+    .mainhhabtme h1 {
+        font-size: 20px;
+        margin: 0;
+        padding: 5px;
+    }
+
+    .mainhhabtme p {
+        font-size: 7px;
+        margin: 0;
+        padding: 5px 0 5px 5px;
+    }
+
+    .progbrm {
+        margin-left: 330px;
+    }
+
+    .formob {
+        margin-top: 0;
+    }
+
+    .ytvideo {
+        padding-left: 100px;
+        margin-top: 5px;
+    }
+
+    .projj li {
+        color: white;
+        text-decoration: none;
+
+    }
+
+    .projj a {
+        color: white;
+        text-decoration: none;
+        font-size: 10px;
+        padding: 3px;
+        border: 1px solid white;
+        width: 100px;
+        margin: 5px;
+        border-radius: 5px;
+        font-weight: 200;
+    }
+
+    .projj {
+        margin-left: 16px;
+    }
+
+}
+
+.addd p a {
+    color: #ffffffc7;
+    text-decoration: none;
+}
+
+.modal-body.hhhs_7ggh button {
+    width: 92%;
+}
+.modal-body.hhhs_7ggh {
+    text-align: center;
+}
+.modal-body.hhhs_7ggh input {
+    border: 1px solid #0000002e;
+    width: 92%;
+    margin: 0;
+    margin-bottom: 16px;
+    padding: 10px 10px;
+    height: auto;
+    border-radius: 5px;
+}
+.modal-body.hhhs_7ggh textarea {
+    border: 1px solid #0000002e;
+    width: 92%;
+    margin: 0;
+    margin-bottom: 16px;
+    padding: 10px 10px;
+    height: auto;
+    border-radius: 5px;
+}
+.modal-body.hhhs_7ggh button {
+    background: #0d6efd;
+    border: none;
+    padding: 8px;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 20px;
+}
+@media screen and (min-width:320px) and (max-width:770px) {
+    .navimg {
+        margin-left: 0;
+    }
+
+    .myybd {
+        width: 100%;
+    }
+
+    .mainn h1 {
+        font-size: 40px;
+    }
+
+    html {
+        overflow-x: hidden;
+    }
+.col-lg-6.mainn a {
+    display: block;
+    margin: auto;
+    padding: 10px 0 !important;
+    height: auto;
+    margin-bottom: 21px;
+}
+    .mainn {
+        padding: 20px 30px 10px 30px;
+        font-size: 25px;
+        margin-left: 0;
+    }
+
+    .hhhs__s {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .mainhh span {
+        font-size: 15px;
+
+    }
+
+    .mainhh h5 {
+        font-size: 23px;
+        padding: 10px 0;
+        margin-bottom: 0;
+        font-weight: 600;
+    }
+
+    .col-md-3.m-3.p-3.mainhh i {
+        font-size: 36px;
+        margin: 0;
+    }
+
+    .col-md-6.myyimg {
+        text-align: center;
+    }
+
+    .myybdr {
+        margin: 0;
+        width: 100%;
+        padding: 13px;
+    }
+
+    .inn__D p {
+        margin: 0;
+        margin-left: 9px;
+        font-size: 14px;
+    }
+
+    .inn__D h4 {
+        margin: 3px 0;
+        width: 23%;
+        font-size: 15px;
+        text-align: left;
+    }
+
+    .inn__D {
+        display: flex;
+        align-items: center;
+    }
+
+    .col-md-6.myybdl {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .col-lg-12.sk h1 {
+        font-size: 20px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+    .contact_left input {
+        text-align: start;
+        padding: 10px;
+    }
+    .contact_left input[type="submit"]{
+        text-align: center;
+    }
+    .contact_left {
+        margin-top: 25px;
+    }
+    .row.mtt {
+        padding: 0 18px;
+    }
+    .container.formainhh {
+        padding: 0 28px;
+    }
+    .formainhh.formob {
+        padding: 0 25px;
+    }
+    .col-lg-6.mainn {
+        margin: auto;
+        text-align: center;
+        width: 100%;
+        margin-top: 31px;
+        margin-left: 9px;
+    }
+    .col-lg-6.mainn2 {
+        padding: 0;
+        text-align: center;
+    }
+}

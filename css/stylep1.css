@@ -1,0 +1,163 @@
+body{
+   font-family: Ropa Sans, Fira Sans, Arial, sans-serif;
+}
+
+.imgh{
+    margin-left: 50px;
+}
+.pos{
+    position: absolute;
+    top:30px;
+    left: -270px;
+    color: black;
+} 
+.pos h1{
+    font-weight: 
+    700;
+    font-size: 55px;
+}
+.pos p{
+    font-size: 20px;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+}
+.content{
+    color: black;
+}
+.content p{
+    color: gray;
+}
+.s2{
+    padding-left: 125px;
+}
+.s3{
+    width: 590px;
+}
+#s4{
+    padding-top: 40px;
+   
+}
+#s4 h1{
+font-size: 50px;
+padding-top: 140px;
+}
+#s4 p{
+    text-align: justify;
+    font-size: 18px; 
+}
+#btn{
+    background-color: orangered;
+    color: white;
+    width: 150px;
+    font-size: 20px;
+}
+.s8{
+text-align: center;
+}
+.s8 h1{
+    font-size: 40px;
+}
+.s9{
+    text-align: center;
+}
+.s9 p{
+    font-size: 18px;
+    padding: 30px;
+}
+.bgc{
+    background-color: aliceblue;
+}
+.k1{
+    margin: 0 10px 0 10px;
+    background-color: white;
+    display: flex;
+    padding: 18px;
+}
+.k1 img{
+    
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.k1 p{
+    font-size: 25px;
+    padding-left: 80px;
+    padding-top: 25px;
+}
+.k2{
+    margin: 0 10px 0 10px;
+    background-color: white;
+    display: flex;
+    padding: 18px;
+}
+.k2 img{
+    
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.k2 p{
+    font-size: 25px;
+    padding-left: 80px;
+    padding-top: 25px;
+}
+.k3{
+    margin: 15px 10px 0 10px;
+    background-color: white;
+    display: flex;
+    padding: 18px;
+
+}
+.k3 img{
+    
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.k3 p{
+    font-size: 25px;
+    padding-left: 80px;
+    padding-top: 25px;
+}
+.k4{
+    margin: 15px 10px 0 10px;
+    background-color: whitesmoke;
+    padding: 18px;
+    
+    
+}
+.k4 img{
+    
+    padding-left: 20px;
+    padding-top: 5px;
+    float: left;
+}
+
+.k4 h2{
+    font-size: 18px;
+    padding-left: 18px;
+    padding-top: 18px;
+    float: left;
+    
+}
+.k4 p{
+    clear: both;
+    text-align: left;
+    font-size: 15px;
+}
+.forbg{
+    background-color: rgb(145, 225, 228);
+    width: 100%;
+   }
+   .padd li {
+    margin-top: 15px;
+    color: black;
+   }
+   .padd li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+   }
