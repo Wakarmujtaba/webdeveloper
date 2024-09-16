@@ -854,7 +854,29 @@
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
+<script>
+    $(document).ready(function() {
+        $('#contactForm').on('submit', function(e) {
+            var isValid = true;
+            
+            // Check all required fields
+            $('.required').each(function() {
+                if ($(this).val() === '') {
+                    isValid = false;
+                    $(this).css('border', '2px solid red'); // Highlight missing field
+                } else {
+                    $(this).css('border', ''); // Reset border if field is filled
+                }
+            });
 
+            // Prevent form submission if validation fails
+            if (!isValid) {
+                e.preventDefault();
+                alert("Please fill out all required fields.");
+            }
+        });
+    });
+</script>
 </body>
 
 </html>
