@@ -34,13 +34,13 @@
             <div class="modal-body hhhs_7ggh">
               <form action="#" onsubmit="return validateForm()">
   <label for="name">Name:</label>
-  <input type="text" name="name" id="name" placeholder="Name" required>
+  <input type="text" name="name" id="namee" placeholder="Name" required>
   
   <label for="email">Email:</label>
-  <input type="email" name="email" id="email" placeholder="Email" required>
+  <input type="email" name="email" id="emaill" placeholder="Email" required>
   
   <label for="phone">Phone:</label>
-  <input type="tel" name="phone" id="phone" placeholder="Phone" pattern="[0-9]{10}" required>
+  <input type="tel" name="phone" id="phonee" placeholder="Phone" pattern="[0-9]{10}" required>
   
   <label for="message">Message:</label>
   <textarea name="message" id="message" rows="5" placeholder="Message" required></textarea>
@@ -885,9 +885,9 @@
 </script>
     <script>
   function validateForm() {
-    const name = document.getElementById("name").value;
-    const email = document.getElementById("email").value;
-    const phone = document.getElementById("phone").value;
+    const name = document.getElementById("namee").value;
+    const email = document.getElementById("emaill").value;
+    const phone = document.getElementById("phonee").value;
     const message = document.getElementById("message").value;
 
     if (!name || !email || !phone || !message) {
